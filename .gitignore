@@ -1,0 +1,27 @@
+# input files, reports
+*.zip
+*.csv
+*.xls*
+*.htm*
+
+# aws/ops
+dist/
+deployment.zip
+
+# env
+activate
+
+# python
+__pycache__
+*.pyc
+*.egg-info
+
+# secrets
+*secret*
+
+# pytest
+.cache/
+
+# misc
+*.swp
+.DS_Store
